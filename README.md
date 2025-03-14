@@ -1,2 +1,2 @@
-# bonacchilab.github.io
-Website for the Bonacchi Lab
+# Computational, Cognitive, and Behavioral Neuroscience Lab (CCBN) 
+Future website for the Bonacchi Lab
