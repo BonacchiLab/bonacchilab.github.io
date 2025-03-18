@@ -2,7 +2,6 @@ title: Bonacchi Lab
 description: Computational, Cognitive, and Behavioral Neuroscience Lab (CCBN) at William James Center for Research (WJCR), ISPA - Instituto Universitário, Lisbon, Portugal
 url: https://bonacchilab.github.io
 theme: minima
-remote_theme: greenelab/lab-website-template
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
