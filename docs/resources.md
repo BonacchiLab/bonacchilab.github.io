@@ -2,7 +2,7 @@
 
 - Lab shared folder: [GDrive](https://drive.google.com/drive/folders/1thxHGEpfdRi5IjG7iBmWyKvUf_XlvDzD?usp=drive_link)
 
-- Lab GitHub Organization: [github.com/BonacchiLab](https://github.com)
+- Lab GitHub Organization: [BonacchiLab](https://github.com/BonacchiLab)
 - Lab WhatsApp community group
 - Lab Discord server link in WhatsApp
 
