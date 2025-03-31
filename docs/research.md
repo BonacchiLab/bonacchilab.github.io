@@ -1,64 +1,27 @@
 # Research
 
-## Research Areas
+## Current Research Projects
 
-### Neural Circuits of Decision-Making
+### **Multidimensional Pain Assessment in Marine Mammals**
 
-![Neural Circuit Diagram](assets/images/research/neural_circuits.png){ width="600" }
+Developing machine learning classifiers to identify and quantify pain through behavioral indicators in seals and sea lions, including validation through structured behavioral scales.
 
-Our lab investigates how neural circuits process information to make decisions. We combine advanced experimental techniques with computational modeling to understand:
+### **Cortisol/DHEA-S Ratio as a Biomarker for Well-being in California Sea Lions**
 
-- Evidence accumulation in sensory systems
-- Value-based decision making
-- Social decision-making
-- Learning and adaptation
+Evaluating the cortisol and DHEA-S hormonal profiles as biomarkers of animal welfare in California sea lions (*Zalophus californianus*) to assess their adaptive responses to environmental stressors, especially acoustic stimuli.
 
-### Behavioral Computational Neuroscience
+### **Human-IBL Task**
 
-![Behavioral Analysis](assets/images/research/behavioral_analysis.png){ width="600" }
+Adapting the International Brain Laboratory rodent behavioral task for human participants. This project involves collecting pilot datasets with integrated eye-tracking and EEG recordings to enable direct comparison of neural activity patterns between humans and rodents.
 
-We develop and apply computational models to understand:
+### **Theories of Human Consciousness (COGITATE Consortium)**
 
-- Animal behavior in complex environments
-- Neural representations of decision variables
-- Learning algorithms in biological systems
-- State-space models of behavior
+Utilizing large-scale MEEG, ECoG, and fMRI datasets to systematically evaluate competing theories of human consciousness and explore cognitive processes using advanced exploratory analysis and modeling techniques.
 
-### Tool Development
+### **Behavioral Tasks for Human Decision-Making**
 
-![Custom Tools](assets/images/research/custom_tools.png){ width="600" }
+Designing and implementing novel decision-making tasks informed by game theory and reinforcement learning, aiming to unravel the cognitive strategies employed by individuals and their corresponding neural correlates.
 
-We create innovative tools for neuroscience research:
+### **Facial Analysis Tool Development**
 
-- Open-source behavioral control systems
-- Neural data analysis pipelines
-- Real-time processing algorithms
-- Automated behavior analysis tools
-
-## Methods
-
-![Methods Overview](assets/images/research/methods_overview.png){ width="800" }
-
-- Two-photon calcium imaging
-- High-density electrophysiology
-- Automated behavioral tracking
-- Machine learning and deep neural networks
-- Computational modeling
-- Optogenetics
-
-## Current Projects
-
-1. **Neural basis of evidence accumulation**
-   ![Evidence Accumulation](assets/images/research/evidence_accumulation.png){ width="400" }
-   - Investigation of how sensory evidence is accumulated and integrated
-   - Development of theoretical frameworks for decision-making
-
-2. **Behavioral state dynamics**
-   ![State Dynamics](assets/images/research/state_dynamics.png){ width="400" }
-   - Tracking and modeling behavioral states
-   - Understanding state-dependent neural activity
-
-3. **Social interaction networks**
-   ![Social Networks](assets/images/research/social_networks.png){ width="400" }
-   - Analysis of group behavior
-   - Neural correlates of social decisions
+Creating accessible, user-friendly software for sentiment and emotion analysis through advanced machine learning pipelines applied to video data, enabling non-technical researchers to leverage sophisticated analytic methods.

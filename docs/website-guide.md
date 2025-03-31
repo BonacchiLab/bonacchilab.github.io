@@ -1,4 +1,4 @@
-# Getting Started
+# Website Guide
 
 This guide is for lab members who need to update the lab website.
 
@@ -11,12 +11,14 @@ This guide is for lab members who need to update the lab website.
 ## Local Development
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/BonacchiLab/bonacchilab.github.io.git
    cd bonacchilab.github.io
    ```
 
 2. Create a new Python environment using uv:
+
    ```bash
    uv venv
    ```
@@ -26,11 +28,13 @@ This guide is for lab members who need to update the lab website.
    - Unix/MacOS: `source .venv/bin/activate`
 
 4. Install dependencies:
+
    ```bash
    uv pip install -r requirements.txt
    ```
 
 5. Start the development server:
+
    ```bash
    mkdocs serve
    ```
@@ -47,6 +51,7 @@ This guide is for lab members who need to update the lab website.
 ## Deploying to GitHub Pages
 
 1. Make sure your changes are committed and pushed to the main branch:
+
    ```bash
    git add .
    git commit -m "Update website content"
@@ -54,6 +59,7 @@ This guide is for lab members who need to update the lab website.
    ```
 
 2. Deploy to GitHub Pages using MkDocs:
+
    ```bash
    mkdocs gh-deploy
    ```

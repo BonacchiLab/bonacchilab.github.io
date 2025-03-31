@@ -3,30 +3,35 @@
 ## 2025
 
 ### March
-- New paper published in Nature Neuroscience on neural dynamics of decision-making
-- Lab presents at International Neuroscience Conference
-- New grant awarded for social neuroscience research
+
+- S4SN abstract submission opens!
 
 ### February
-- Lab receives major funding for tool development
-- Dr. Smith joins as postdoctoral researcher
-- New collaboration with Example University announced
+
+- S4SN registration and symposium proposals opens!
 
 ### January
-- Two PhD positions opened
-- Lab software reaches 1000 GitHub stars
-- Published paper in Neuron on state-dependent processing
+
+- COGITATE iEEG data paper accepted in *Nature Scientific Data*!!
+- S4SN2025 cwebsite running!
 
 ## 2024
 
 ### December
-- Annual lab retreat successful
-- New paper on computational principles in Science
-- Three posters presented at Annual Neuroscience Meeting
 
-### November
-- Lab featured in University Newsletter
-- New behavioral recording setup completed
-- Workshop on neural data analysis held
+- COGITATE paper accepted in *Nature*!!
+- COGITATE datasets raw and BIDS data for all modalities get their own registered DOI (c/o the [Publications](../publications) page)
+
+### September
+
+- Bonacchi Lab will be organizing the Society for Social Neuroscience 2025 annual meeting in Lisbon, Portugal
+
+### July
+
+- Ispa Live Podcast "Divertidamente 2" NOS Audiovisuais – **Bonacchi N**, Carla Fernandes 2024-07-05 available at [https://www.youtube.com/watch?v=bj1lEiSuJsM](https://www.youtube.com/watch?v=bj1lEiSuJsM) (PORTUGUESE ONLY)
+
+### June
+
+- Organization of ISSBD – International Society for the Study of Behavioural Development ISSBD2024, 16-20 June 2024, Lisboa, Portugal
 
 *For older news, please check our [archive]()

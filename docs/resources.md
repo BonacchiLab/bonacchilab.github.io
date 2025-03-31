@@ -1,26 +1,49 @@
 # Lab Resources
 
-## Internal Tools
+- Lab shared folder: [GDrive](https://drive.google.com/drive/folders/1thxHGEpfdRi5IjG7iBmWyKvUf_XlvDzD?usp=drive_link)
 
-### Code Repositories
 - Lab GitHub Organization: [github.com/BonacchiLab](https://github.com)
-- Code Documentation: [docs.example.com](https://docs.example.com)
-- Analysis Pipelines: [github.com/BonacchiLab/analysis](https://github.com)
+- Lab WhatsApp community group
+- Lab Discord server link in WhatsApp
 
-### Data Management
-- Lab Server Access: [server.example.com](https://server.example.com)
-- Data Storage Guidelines
-- Backup Procedures
+## This page is a WIP probably to be substituted by a wiki page with the following tentative content
 
-## Protocols
+## Procedures
 
-### Experimental
+- Lab Onboarding
+- Lab Offboarding
+- Lab Meeting
+- Lab Journal Club
+- Lab Retreat
+- Lab Socials
+- Lab Website
+
+## Data Management
+
+- Storage Guidelines
+- Backup
+- Sharing
+- Security
+- Template Data Management Plan (DMP)
+- Lab Server [soon...]()
+
+## Protocols Bio
+
 - Animal Handling
 - Surgery Procedures
 - Behavioral Training
 - Recording Protocols
 
-### Analysis
+## Protocols Human
+
+- Human Subject Recruitment
+- Informed Consent Procedures
+- Behavioral Testing Protocols
+- Data Collection Guidelines
+- EEG/MEG Recording Protocols
+
+## Analysis
+
 - Data Processing Pipeline
 - Standard Analysis Procedures
 - Quality Control Guidelines
@@ -28,48 +51,54 @@
 ## Administrative
 
 ### Forms
+
 - Travel Request
 - Purchase Request
 - Reimbursement Form
 
 ### Policies
+
 - Lab Safety Guidelines
 - Data Sharing Policy
 - Publication Policy
 - Code Sharing Policy
 
-## Computing Resources
+## Software
 
-### Software
 - Required Software List
 - Installation Guides
 - License Information
 
-### Hardware
+## Hardware
+
 - Workstation Specifications
 - Server Access Guide
 - Printer Setup
 
 ## Training Materials
 
-### Technical Skills
+## Technical Skills
+
 - Programming Tutorials
 - Analysis Workshops
 - Statistics Resources
 
-### Professional Development
+## Professional Development
+
 - Presentation Guidelines
 - Writing Resources
 - Grant Writing Tips
 
 ## Useful Links
 
-### Internal
+## Internal
+
 - University Library
 - Department Resources
 - Core Facilities
 
 ### External
+
 - Funding Opportunities
 - Conference Calendar
 - Journal Links

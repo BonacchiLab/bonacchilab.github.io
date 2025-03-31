@@ -4,37 +4,28 @@
 
 ### Dr. Niccolò Bonacchi
 
-![Niccolò Bonacchi](assets\images\team\Niccolo-Bonacchi.png) 
+![Niccolò Bonacchi](assets\images\team\Niccolo-Bonacchi.png)
 
 Principal Investigator  
 Assistant Professor of Biology and Neuroscience  
 [Email](mailto:nbonacchi@ispa.pt) | [Google Scholar](https://scholar.google.com/citations?user=ii0Eww0AAAAJ&hl=en) | [GitHub](https://github.com/BonacchiLab)
 
-Research interests: Computational neuroscience, decision-making, behavioral control
+Research interests: neurobiology, systems and computational neuroscience, psychobiology, data analysis, metadata, experimental reproducibility, open science, behavioral control and quantification, experimental design and instrumentation, serotonin, orbitofrontal cortex, hippocampus, piriform cortex, olfaction, decision-making, reinforcement learning, optogenetics, fiber photometry, electrophysiology.  
 
-<!-- ## Postdoctoral Researchers
+#### About Niccolò Bonacchi
 
-### Dr. Jane Smith
+Niccolò Bonacchi is an Assistant Professor at ISPA - Instituto Universitário, where he teaches graduate courses in experimental programming and neurobiology. His professional highlights include:
 
-![Jane Smith](assets/images/team/jane_smith.jpg){ width="200" }
+- Ph.D. in Neuroscience (Nova University of Lisbon, CCU), focused on neural representation of spatial objectives, olfactory cues, and predictive coding
+- Development and contribution to [Bonsai-RX](https://bonsai-rx.org/), an open-source visual programming language extensively used for behavioral and neuroscience research
+- Former Data Architect at the International Brain Laboratory (IBL), leading the development of experimental data acquisition and management systems
+- Data Architect of the COGITATE consortium, developing standards for experimental metadata ontology and promoting FAIR data-sharing practices
 
-Postdoctoral Researcher  
-[Email](mailto:example@university.edu)
-
-Research focus: Neural circuits of decision-making
-
-### Dr. Michael Johnson
-
-![Michael Johnson](assets/images/team/michael_johnson.jpg){ width="200" }
-
-Postdoctoral Researcher  
-[Email](mailto:example@university.edu)
-
-Research focus: Computational modeling of behavior -->
+Niccolò's research interests lie at the intersection of cognitive and behavioral neuroscience and computational methodologies, emphasizing accurate behavioral quantification, data analysis precision, and open science.
 
 ## Graduate Students
 
-### Miriam Oliveira Leal (DVM) 
+### Miriam Oliveira Leal (DVM)
 
 ![Miriam Oliveira Leal ](assets/images/team/Miriam-Oliveira-Leal.png)
 
@@ -42,15 +33,6 @@ PhD Student - Behavioral Biology
 [Email](mailto:example@university.edu)
 
 Research focus: Multidimensional pain assessment in seals and sea lions
-
-<!-- ### Robert Wilson
-
-![Robert Wilson](assets/images/team/robert_wilson.jpg){ width="200" }
-
-PhD Student  
-[Email](mailto:example@university.edu)
-
-Research focus: Machine learning in neuroscience -->
 
 ## Master's Students
 
@@ -101,20 +83,6 @@ Rotational Student - Psychology
 
 Research focus: Decision-making task development - Human IBL
 
-<!-- ## Technical Staff
+<!-- ## Alumni
 
-### David Chen
-
-![David Chen](assets/images/team/david_chen.jpg){ width="200" }
-
-Research Engineer  
-[Email](mailto:example@university.edu)
-
-Focus: Tool development and hardware design -->
-
-## Alumni
-
-### Past Members
-<!-- 
-- Dr. Sarah Thompson (Postdoc 2022-2024) - Now Assistant Professor at Example University
-- Dr. James Wilson (PhD 2021-2024) - Now Research Scientist at Tech Company -->
+### Past Members -->
