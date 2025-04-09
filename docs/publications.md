@@ -19,7 +19,7 @@ Open multi-center intracranial electroencephalography dataset with task probing 
 ## 2024
 
 International Brain Laboratory, Banga Kush, Benson Julius, Bhagat Jai, Biderman Dan, Birman Daniel, **Bonacchi Niccolò**, et al. (2024)  
-Reproducibility of in vivo electrophysiological measurements in mice *eLife* 13:RP100840 [10.7554/eLife.100840.1](https://doi.org/10.7554/eLife.100840.1)
+Reproducibility of in vivo electrophysiological measurements in mice **eLife** 13:RP100840 [10.7554/eLife.100840.1](https://doi.org/10.7554/eLife.100840.1)
 
 **Datasets**:  
 Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
@@ -43,63 +43,63 @@ Cogitate MEEG RAW data: Max Planck Institute for Empirical Aesthetics. [10.17617
 ## 2023
 
 International Brain Laboratory; **Bonacchi, N.**, Chapuis, G. A., Churchland, A. K., DeWitt, E. E. J., Faulkner, M., Harris, K. D., Huntenburg, J. M., ... Wells, M. J. (2023).  
-A modular architecture for organizing, processing and sharing neurophysiology data. *Nature Methods*. [10.1038/s41592-022-01742-6](https://doi.org/10.1038/s41592-022-01742-6)
+A modular architecture for organizing, processing and sharing neurophysiology data. **Nature Methods**. [10.1038/s41592-022-01742-6](https://doi.org/10.1038/s41592-022-01742-6)
 
 ## 2022
 
 Snitz, K., Honigstein, D., Weissgross, R., Ravia, A., Mishor, E., Perl, O., Karagach, S., Medhanie, A., Harel, N., Shushan, S., Roth, Y., Iravani, B., Arshamian, A., Ernst, G., Okamoto, M., Poo, C., **Bonacchi, N.**, Mainen, Z., Monteleone, E., … Sobel, N. (2022).  
-An olfactory self-test effectively screens for COVID-19. *Communications Medicine*, *2*(1). [10.1038/s43856-022-00095-7](https://doi.org/10.1038/s43856-022-00095-7)
+An olfactory self-test effectively screens for COVID-19. **Communications Medicine**, *2*(1). [10.1038/s43856-022-00095-7](https://doi.org/10.1038/s43856-022-00095-7)
 
 ## 2021
 
 Whiteway, M. R., Biderman, D., Friedman, Y., Dipoppa, M., Buchanan, E. K., Wu, A., Zhou, J., **Bonacchi, N.**, Miska, N. J., Noel, J.-P., Rodriguez, E., Schartner, M., Socha, K., Urai, A. E., Salzman, C. D., Cunningham, J. P., & and, L. P. (2021).  
-Partitioning variability in animal behavioral videos using semi-supervised variational autoencoders. *PLOS Computational Biology*, *17*(9), e1009439. [10.1371/journal.pcbi.1009439](https://doi.org/10.1371/journal.pcbi.1009439)
+Partitioning variability in animal behavioral videos using semi-supervised variational autoencoders. **PLOS Computational Biology**, *17*(9), e1009439. [10.1371/journal.pcbi.1009439](https://doi.org/10.1371/journal.pcbi.1009439)
 
 Poo, C., Agarwal, G., **Bonacchi, N.**, & Mainen, Z. F. (2021).  
-Spatial maps in piriform cortex during olfactory navigation. *Nature*, *601*(7894), 595–599. [10.1038/s41586-021-04242-3](https://doi.org/10.1038/s41586-021-04242-3)
+Spatial maps in piriform cortex during olfactory navigation. **Nature**, *601*(7894), 595–599. [10.1038/s41586-021-04242-3](https://doi.org/10.1038/s41586-021-04242-3)
 
 Aguillon-Rodriguez, and V., Angelaki, D., Bayer, H., **Bonacchi, N.**, Carandini, M., Cazettes, F., Chapuis, G., Churchland, A. K., Dan, Y., Dewitt, E., Faulkner, M., Forrest, H., Haetzel, L., Häusser, M., Hofer, S. B., Hu, F., Khanal, A., Krasniak, C., Laranjeira, I., … Zador, A. M. (2021).  
-Standardized and reproducible measurement of decision-making in mice. *ELife*, *10*. [10.7554/elife.63711](https://doi.org/10.7554/elife.63711)
+Standardized and reproducible measurement of decision-making in mice. **ELife**, *10*. [10.7554/elife.63711](https://doi.org/10.7554/elife.63711)
 
 ## 2015
 
 Lopes, G., **Bonacchi, N.**, Frazão, J., Neto, J. P., Atallah, B. V., Soares, S., Moreira, L., Matias, S., Itskov, P. M., Correia, P. A., Medina, R. E., Calcaterra, L., Dreosti, E., Paton, J. J., & Kampff, A. R. (2015).  
-Bonsai: An event-based framework for processing and controlling data streams. *Frontiers in Neuroinformatics*, *9*(APR). [10.3389/fninf.2015.00007](https://doi.org/10.3389/fninf.2015.00007)
+Bonsai: An event-based framework for processing and controlling data streams. **Frontiers in Neuroinformatics**, *9*(APR). [10.3389/fninf.2015.00007](https://doi.org/10.3389/fninf.2015.00007)
 
 ## Preprints
 
 Benson, B., Benson, J., Birman, D., … Winter, O., **Bonacchi, N.**, Witten, I. B. (2023).  
-A Brain-Wide Map of Neural Activity during Complex Behaviour. *bioRxiv*.  
+A Brain-Wide Map of Neural Activity during Complex Behaviour. **bioRxiv**.  
 [10.1101/2023.07.04.547681](https://doi.org/10.1101/2023.07.04.547681)  
 
 Findling, C., Hubert, F., Acerbi, L., … Dayan, P., Pouget, A., **Bonacchi, N.** (2023).  
-Brain-wide representations of prior information in mouse decision-making. *bioRxiv*.  
+Brain-wide representations of prior information in mouse decision-making. **bioRxiv**.  
 [10.1101/2023.07.04.547684](https://doi.org/10.1101/2023.07.04.547684)  
 
 Melloni, L., Consortium, C., Ferrante, O., … Pitts, M., Mudrik, L., **Bonacchi, N.** (2023).  
-An adversarial collaboration to critically evaluate theories of consciousness. *Research Square*.  
+An adversarial collaboration to critically evaluate theories of consciousness. **Research Square**.  
 [10.21203/rs.3.rs-3101836/v1](https://doi.org/10.21203/rs.3.rs-3101836/v1)  
 
 Ferrante, O., Gorska-Klimowska, U., Henin, S., … Mudrik, L., Melloni, L., **Bonacchi, N.** (2023).  
-An adversarial collaboration to critically evaluate theories of consciousness. *bioRxiv*.  
+An adversarial collaboration to critically evaluate theories of consciousness. **bioRxiv**.  
 [10.1101/2023.06.23.546249](https://doi.org/10.1101/2023.06.23.546249)  
 
 Banga, K., Benson, J., Bhagat, J., … Witten, I. B., Zhang, Y., **Bonacchi, N.** (2022).  
-Reproducibility of in vivo electrophysiological measurements in mice. *bioRxiv*.  
+Reproducibility of in vivo electrophysiological measurements in mice. **bioRxiv**.  
 [10.1101/2022.05.09.491042](https://doi.org/10.1101/2022.05.09.491042)  
 
 Whiteway, M. R., Biderman, D., Friedman, Y., … Cunningham, J. P., Paninski, L., **Bonacchi, N.** (2021).  
-Partitioning variability in animal behavioral videos using semi-supervised variational autoencoders. *bioRxiv*.  
+Partitioning variability in animal behavioral videos using semi-supervised variational autoencoders. **bioRxiv**.  
 [10.1101/2021.02.22.432309](https://doi.org/10.1101/2021.02.22.432309)  
 
 Snitz, K., Honigstein, D., Weissgross, R., … Lundström, J. N., Sobel, N., **Bonacchi, N.** (2021).  
-A novel olfactory self-test effectively screens for COVID-19. *medRxiv*.  
+A novel olfactory self-test effectively screens for COVID-19. **medRxiv**.  
 [10.1101/2021.02.18.21251422](https://doi.org/10.1101/2021.02.18.21251422)  
 
 Poo, C., Agarwal, G., **Bonacchi, N.**, Mainen, Z. (2020).  
-Spatial maps in piriform cortex during olfactory navigation. *bioRxiv*.  
+Spatial maps in piriform cortex during olfactory navigation. **bioRxiv**.  
 [10.1101/2020.02.18.935494](https://doi.org/10.1101/2020.02.18.935494)  
 
 **Bonacchi, N.**, Chapuis, G., Churchland, A., … Winter, O., Wells, M. (2019).  
-Data architecture for a large-scale neuroscience collaboration. *bioRxiv*.  
+Data architecture for a large-scale neuroscience collaboration. **bioRxiv**.  
 [10.1101/827873](https://doi.org/10.1101/827873)

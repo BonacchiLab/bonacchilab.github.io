@@ -8,9 +8,7 @@
 
 Principal Investigator  
 Assistant Professor of Biology and Neuroscience  
-[Email](mailto:nbonacchi@ispa.pt) | [Google Scholar](https://scholar.google.com/citations?user=ii0Eww0AAAAJ&hl=en) | [GitHub](https://github.com/BonacchiLab)
-
-Research interests: neurobiology, systems and computational neuroscience, psychobiology, data analysis, metadata, experimental reproducibility, open science, behavioral control and quantification, experimental design and instrumentation, serotonin, orbitofrontal cortex, hippocampus, piriform cortex, olfaction, decision-making, reinforcement learning, optogenetics, fiber photometry, electrophysiology.  
+[Email ![envelope](https://img.icons8.com/fluency/16/000000/email.png)](mailto:nbonacchi@ispa.pt) | [Google Scholar ![graduation-cap](https://img.icons8.com/fluency/16/000000/graduation-cap.png)](https://scholar.google.com/citations?user=ii0Eww0AAAAJ&hl=en) | [GitHub ![mark-github](https://img.icons8.com/fluency/16/000000/github.png)](https://github.com/BonacchiLab) | [CienciaVitae ![briefcase](https://img.icons8.com/fluency/16/000000/briefcase.png)](https://www.cienciavitae.pt/portal/en/0612-705C-8295) | [ORCID ![ORCID](https://img.icons8.com/?size=17&amp;id=ve6L0KkSotok&amp;format=png)](https://orcid.org/0000-0001-5228-6918) | [Research Gate ![university](https://img.icons8.com/fluency/16/000000/university.png)](https://www.researchgate.net/profile/Niccolo-Bonacchi-3) | [Scopus ![spread](https://img.icons8.com/fluency/16/000000/spread.png)](https://www.scopus.com/authid/detail.uri?authorId=56598047300) | [Twitter ![bird](https://img.icons8.com/fluency/16/000000/twitter.png)](https://twitter.com/nbonacchi)
 
 #### About Niccolò Bonacchi
 
@@ -38,16 +36,20 @@ Research focus: Multidimensional pain assessment in seals and sea lions
 
 ### Beatriz Simões
 
-![Beatriz Simões](assets/images/team/Beatriz-Simoes.png)
+![Beatriz Simões](assets/images/team/Beatriz-Simoes.JPG)
 
 Master's Student - Cognitive and Behavioral Neuroscience  
 [Email](mailto:example@university.edu)
 
 Research focus: Political decision-making
 
-### Isable Gaspar
+#### About Beatriz Simões
 
-![Isable Gaspar](assets/images/team/Isable-Gaspar.png)
+Beatriz is a Master student of the Behavioral and Cognitive Neuroscience Masters course at Ispa - Instituto Universitário. Beatriz holds an undergraduate course in Political Science by ISCSP - University of Lisbon and is currently a political advisor for education and science for the Social Democratic Party’s Parliamentary Group, that supports the current government. Before that she was a research intern at ITQB Nova, in the Proteomics of Non-Model Organisms Lab, where she employed an array of biochemistry methodologies, such as flow cytometry and fluorescence microscopy. Her scientific interests entail different levels of analysis, by applying an interdisciplinary focus to understand behavioral phenomena. With a background in cellular biology research and an undergraduate course in PolSci, the work she develops in the Master thesis bridges two areas of knowledge concerning political decision making and its neural correlates. She has published 2 articles in peer reviewed journals as co-author.
+
+### Isabel Gaspar
+
+![Isabel Gaspar](assets/images/team/Isabel-Gaspar.png)
 
 Master's Student - Cognitive and Behavioral Neuroscience  
 [Email](mailto:example@university.edu)
@@ -58,21 +60,28 @@ Research focus: Endocrine markers of sea lion well-being
 
 ### Carlota Carreiras
 
-![Carlota Carreiras](assets/images/team/Carlota-Carreras.png)
+![Carlota Carreiras](assets/images/team/Carlota-Carreiras.png)
 
 Undergraduate Student - Biology
 [Email](mailto:example@university.edu)
 
-Research focus: Cogitate dataset fMRI analysis, neural correlates of learning
+Research focus: Cogitate dataset fMRI analysis, neural correlates of attention  
+_Explorar os mecanismos neuronais da atenção através de dados de fMRI_  
+A atenção é uma componente central da nossa experiência consciente — permite-nos focar em estímulos relevantes e ignorar distrações, sendo fundamental para a aprendizagem e para a tomada de decisões. Este projeto surge como uma extensão de um estudo
+colaborativo sobre consciência, desenvolvido por diversos centros de investigação. O estudo original gerou um conjunto vasto de dados, sendo um deles dados de neuroimagem funcional (fMRI), com potencial para aprofundar diferentes dimensões da cognição. O foco deste projeto é a análise dos dados de neuroimagem funcional (fMRI) com o objetivo de compreender melhor os mecanismos cerebrais associados à atenção seletiva e à atenção sustentada. Através de técnicas de pré-processamento e análise de imagens fMRI, procuramos identificar padrões de atividade neuronal que ajudam a distinguir entre diferentes tipos de atenção e o seu papel. Este trabalho contribui para perceber e compreender melhor os mecanismos da atenção seletiva e da atenção sustentada, assim como explorar a forma como estas duas dimensões da atenção interagem entre si.
 
 ### Maria Moreira
 
-![Maria Moreira](assets/images/team/Maria-Moreira.png)
+![Maria Moreira](assets/images/team/Maria-Moreira.jpeg)
 
 Rotational  Student - Psychology
 [Email](mailto:example@university.edu)
 
 Research focus: Facial expression analysis - PyFEAT wrapper and default analysis development
+
+#### About Maria Moreira
+
+Currently developing a pipeline that will be able to accept image and video files and print out emotional tracking metrics. This project aims to build a robust system capable of ingesting visual media and analyzing it to extract emotional cues, such as facial recognition and facial expressions. In addition to the core functionality, the project will include visualizations to interpret the outputs and descriptive statistics from the main data.
 
 ### Hugo Almeida
 
