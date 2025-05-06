@@ -67,11 +67,12 @@ Visit our [Join Us](join.md) page for more details and current opportunities.
 
 ## Contact
 
-Located at:
+Located at:  
 William James Center for Research (WJCR)  
 Ispa - Instituto Universitário,  
 Rua Jardim do Tabaco, 34,  
 1149-041  
 Lisbon, Portugal  
 
-[Contact us](contact.md) for collaborations or inquiries.
+[Contact us](contact.md) for collaborations or inquiries.  
+[Visit our GitHub Repository](https://github.com/BonacchiLab/bonacchilab.github.io) for more information about our projects and code.
