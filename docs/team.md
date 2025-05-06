@@ -8,7 +8,14 @@
 
 Principal Investigator  
 Assistant Professor of Biology and Neuroscience  
-[Email ![envelope](https://img.icons8.com/fluency/16/000000/email.png)](mailto:nbonacchi@ispa.pt) | [Google Scholar ![graduation-cap](https://img.icons8.com/fluency/16/000000/graduation-cap.png)](https://scholar.google.com/citations?user=ii0Eww0AAAAJ&hl=en) | [GitHub ![mark-github](https://img.icons8.com/fluency/16/000000/github.png)](https://github.com/BonacchiLab) | [CienciaVitae ![briefcase](https://img.icons8.com/fluency/16/000000/briefcase.png)](https://www.cienciavitae.pt/portal/en/0612-705C-8295) | [ORCID ![ORCID](https://img.icons8.com/?size=17&amp;id=ve6L0KkSotok&amp;format=png)](https://orcid.org/0000-0001-5228-6918) | [Research Gate ![university](https://img.icons8.com/fluency/16/000000/university.png)](https://www.researchgate.net/profile/Niccolo-Bonacchi-3) | [Scopus ![spread](https://img.icons8.com/fluency/16/000000/spread.png)](https://www.scopus.com/authid/detail.uri?authorId=56598047300) | [Twitter ![bird](https://img.icons8.com/fluency/16/000000/twitter.png)](https://twitter.com/nbonacchi)
+[Email ![envelope](https://img.icons8.com/fluency/16/000000/email.png)](mailto:nbonacchi@ispa.pt) |
+[Google Scholar ![graduation-cap](https://img.icons8.com/fluency/16/000000/graduation-cap.png)](https://scholar.google.com/citations?user=ii0Eww0AAAAJ&hl=en) |
+[GitHub ![mark-github](https://img.icons8.com/fluency/16/000000/github.png)](https://github.com/BonacchiLab) |
+[CienciaVitae ![briefcase](https://img.icons8.com/fluency/16/000000/briefcase.png)](https://www.cienciavitae.pt/portal/en/0612-705C-8295) |
+[ORCID ![ORCID](https://img.icons8.com/?size=17&amp;id=ve6L0KkSotok&amp;format=png)](https://orcid.org/0000-0001-5228-6918) |
+[Research Gate ![university](https://img.icons8.com/fluency/16/000000/university.png)](https://www.researchgate.net/profile/Niccolo-Bonacchi-3) | [Scopus ![spread](https://img.icons8.com/fluency/16/000000/spread.png)](https://www.scopus.com/authid/detail.uri?authorId=56598047300) |
+[Twitter ![bird](https://img.icons8.com/fluency/16/000000/twitter.png)](https://twitter.com/nbonacchi) |
+[SemanticScholar ![book](https://img.icons8.com/fluency/16/000000/book.png)](https://www.semanticscholar.org/author/Niccol%C3%B2-Bonacchi/3401977)
 
 #### About Niccolò Bonacchi
 
