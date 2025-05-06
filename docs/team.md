@@ -62,7 +62,7 @@ Research focus: Endocrine markers of sea lion well-being
 
 ![Carlota Carreiras](assets/images/team/Carlota-Carreiras.png)
 
-Undergraduate Student - Biology
+Undergraduate Student - Biology  
 [Email](mailto:example@university.edu)
 
 Research focus: Cogitate dataset fMRI analysis, neural correlates of attention  
@@ -74,7 +74,7 @@ colaborativo sobre consciÃªncia, desenvolvido por diversos centros de investigaÃ
 
 ![Maria Moreira](assets/images/team/Maria-Moreira.jpeg)
 
-Rotational  Student - Psychology
+Rotational  Student - Psychology  
 [Email](mailto:example@university.edu)
 
 Research focus: Facial expression analysis - PyFEAT wrapper and default analysis development
@@ -87,7 +87,7 @@ Currently developing a pipeline that will be able to accept image and video file
 
 ![Hugo Almeida](assets/images/team/Hugo-Almeida.png)
 
-Rotational Student - Psychology
+Rotational Student - Psychology  
 [Email](mailto:example@university.edu)
 
 Research focus: Decision-making task development - Human IBL
