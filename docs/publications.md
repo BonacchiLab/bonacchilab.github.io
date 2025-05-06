@@ -10,8 +10,8 @@ A Brain-Wide Map of Neural Activity during Complex Behaviour ***Nature* [IN_REVI
 
 ## 2025
 
-Cogitate Consortium, Ferrante O., Gorska-Klimowska U., Henin S., Hirschhorn R., Khalaf A., Lepauvre A., Liu L., Richter D., Vidal Y., **Bonacchi N.**, Brown T., Sripad P., Armendariz M., Bendtz K., Ghafari T., Hetenyi D., Jeschke J., Kozma C., Mazumder D., Montenegro S., Seedat A., Sharafeldin A., Yang S., Baillet S., Chalmers D., Cichy R., Fallon F., Panagiotaropoulos T., Blumenfeld H., de Lange F., Devore S., Jensen O., Kreiman G., Luo H., Boly M., Dehaene S., Koch C., Tononi G., Pitts M., Mudrik L., Melloni L.  
-An adversarial collaboration to critically evaluate theories of consciousness ***Nature* [ACCEPTED]()**
+Cogitate Consortium, Ferrante O., Gorska-Klimowska U., Henin S., Hirschhorn R., Khalaf A., Lepauvre A., Liu L., Richter D., Vidal Y., **Bonacchi N.**, Brown T., Sripad P., Armendariz M., Bendtz K., Ghafari T., Hetenyi D., Jeschke J., Kozma C., Mazumder D., Montenegro S., Seedat A., Sharafeldin A., Yang S., Baillet S., Chalmers D., Cichy R., Fallon F., Panagiotaropoulos T., Blumenfeld H., de Lange F., Devore S., Jensen O., Kreiman G., Luo H., Boly M., Dehaene S., Koch C., Tononi G., Pitts M., Mudrik L., Melloni L. (2025).  
+An adversarial collaboration to critically evaluate theories of consciousness **Nature** [10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1)
 
 Seedat A., Lepauvre A., Jeschke J., Gorska-Klimowska U., Armendariz M., Bendtz K., Henin S., Hirschhorn R., Brown T., Jensen E., Kozma C., Mazumder D., Montenegro S., Yu L., **Bonacchi N.**, Das D., Kahraman K., Sripad P., Taheriyan F., Devinsky O., Dugan P., Doyle W., Flinker A., Friedman D., Lake W., Pitts M., Mudrik L., Boly M., Devore S., Kreiman G., Melloni L. (2025).  
 Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception. ***Nature Scientific Data*. [ACCEPTED]()**

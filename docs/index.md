@@ -30,7 +30,6 @@ ONLY ONELINERS \n
 </details> 
 -->
 
-
 ## Our Mission
 
 We aim to understand how the brain processes information, adapts to new contexts, and generates behavior. By combining behavioral experiments, computational modeling, electrophysiology, and machine learning, we strive to offer mechanistic explanations for cognitive processes and develop open tools and data frameworks for neuroscience research. A significant aspect of our mission includes advocating for open science, reproducibility, and data-sharing practices within the neuroscience community.
@@ -47,7 +46,8 @@ Our main research interests include:
 
 ## Latest News
 
-!!! info "Latest Updates"
+!!! success "Latest Updates"
+    - [April 2025] COGITATE paper published in *Nature*!!
     - [March 2025] S4SN abstract submission opens!
     - [February 2025] S4SN registration and symposium proposals opens!
     - [January 2025] COGITATE iEEG data paper accepted in *Nature Scientific Data*!!
