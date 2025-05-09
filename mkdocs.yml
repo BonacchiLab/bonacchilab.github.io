@@ -1,6 +1,7 @@
 # Project information
 site_name: Bonacchi Lab
 site_url: https://bonacchilab.github.io
+edit_uri: https://github.com/BonacchiLab/BonacchiLab.github.io/edit/main/docs/
 site_author: Niccolò Bonacchi
 site_description: >-
   The Computational, Cognitive, and Behavioral Neuroscience Lab (CCBN) investigates the
