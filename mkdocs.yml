@@ -1,46 +1,102 @@
+# Project information
 site_name: Bonacchi Lab
+site_url: https://bonacchilab.github.io
+site_author: Niccolò Bonacchi
+site_description: >-
+  The Computational, Cognitive, and Behavioral Neuroscience Lab (CCBN) investigates the
+  neural basis of behavior, cognition, and decision-making through innovative experimental
+  techniques, computational modeling, and theory. Led by Assistant Professor Niccolò Bonacchi,
+  our interdisciplinary work bridges animal and human neuroscience, emphasizing large-scale
+  neural dynamics, temporal processing, brain states, and decision-making.
+
+# Repository
+repo_name: bonacchilab.github.io
+repo_url: https://github.com/BonacchiLab/bonacchilab.github.io
+# Copyright
+copyright: Copyright &copy; 2025 Niccolò Bonacchi &copy; 2025 Bonacchi Lab
+
+# Configuration
 theme:
   name: material
+  # custom_dir: material/overrides
   features:
-    - navigation.instant
-    - navigation.tracking
+    # - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
     - navigation.sections
-    - navigation.expand
-    - toc.integrate
-    - search.suggest
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
     - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    - media: "(prefers-color-scheme)"
       toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
+        icon: material/link
         name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/logo/CCBN_logo_200x200.png
+  logo: assets/images/logo/CCBN_logo_200x200.png
+  icon:
+    logo: logo
 
-markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - admonition
-  - footnotes
-  - toc:
-      permalink: true
+# Plugins
+# plugins:
+#   - blog
+#   - search:
+#       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+
+# Additional configuration
+extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BonacchiLab
 
 nav:
   - Home: index.md
-  - Research: research.md
-  - Publications: publications.md
-  - Team: team.md
-  - News: news.md
+  - About:
+    - Research: research.md
+    - Team: team.md
+    - News: news.md
+  - Resources:
+    - Publications: publications.md
+    - Lab Resources: resources.md
   - Join Us: join.md
   - Contact: contact.md
-  - For Lab Members:
-    - Lab Resources: resources.md

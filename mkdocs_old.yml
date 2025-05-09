@@ -1,0 +1,92 @@
+site_name: Bonacchi Lab
+theme:
+  name: material
+  features:
+    # - header.autohide
+    - navigation.tabs
+    - navigation.top
+    - navigation.tabs.sticky
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    # - navigation.sections
+    - navigation.collapsible
+    - navigation.expand
+    - navigation.expand.active
+    - navigation.expand.sticky
+    - navigation.expand.sticky.active
+    - navigation.expand.sticky.offset
+    - navigation.expand.sticky.offset.active
+    - navigation.footer
+    - navigation.indexes
+    # - toc.integrate
+    - toc.inline
+    - toc.tabs
+    - toc.tabs.sticky
+    - toc.tabs.sticky.active
+    - toc.tabs.sticky.offset
+    - search.suggest
+    - search.highlight
+    - search.share
+    - search.share.suggest
+    - search.share.suggest.active
+    - content.tabs.link
+    - content.tabs.sticky
+    - content.tabs.sticky.active
+    - content.tabs.sticky.offset
+    - content.tabs.sticky.offset.active
+  plugins:
+    - search
+  palette:
+    - scheme: default
+      primary: indigo
+      primary-dark: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      primary-dark: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/logo/CCBN_logo_200x200.png
+  logo: assets/images/logo/CCBN_logo_200x200.png
+  language: en
+  extra_css:
+    - css/custom.css
+  repo_url: https://github.com/BonacchiLab/BonacchiLab.github.io
+  repo_name: Bonacchi Lab
+  repo_type: github
+  icon:
+    repo: fontawesome/brands/github
+    edit: fontawesome/solid/edit
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - About:
+    - Research: research.md
+    - Team: team.md
+    - News: news.md
+  - Resources:
+    - Publications: publications.md
+    - Lab Resources: resources.md
+  - Join Us: join.md
+  - Contact: contact.md
