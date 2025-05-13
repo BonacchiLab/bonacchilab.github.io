@@ -2,47 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://bonacchilab.github.io/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/contact/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/join/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/news/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/publications/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/research/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/resources/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/team/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bonacchilab.github.io/assets/images/</loc>
-         <lastmod>2025-05-09</lastmod>
+         <lastmod>2025-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bonacchilab.github.io/other/ispa/</loc>
+         <lastmod>2025-05-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://bonacchilab.github.io/other/wjcr/</loc>
+         <lastmod>2025-05-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
