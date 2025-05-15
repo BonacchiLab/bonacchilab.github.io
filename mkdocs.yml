@@ -95,7 +95,10 @@ markdown_extensions:
   - pymdownx.arithmatex
 
 # Plugins
-# plugins:
+plugins:
+  - search
+  - include-markdown
+
 #   - blog
 #   - search:
 #       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
@@ -111,12 +114,12 @@ extra:
 
 nav:
   - Home: index.md
-  - About:
-    - Research: research.md
-    - Team: team.md
-    - News: news.md
-  - Resources:
-    - Publications: publications.md
-    - Lab Resources: resources.md
+  # - About:
+  - Team: team.md
+  - Research: research.md
+  - Publications: publications.md
+  - News: news.md
+  # - Resources:
   - Join Us: join.md
   - Contact: contact.md
+  - Lab Wiki (WIP): resources.md
