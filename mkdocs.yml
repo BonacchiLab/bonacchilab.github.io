@@ -17,6 +17,8 @@ repo_url: https://github.com/BonacchiLab/bonacchilab.github.io
 copyright: Copyright &copy; 2025 Niccolò Bonacchi &copy; 2025 Bonacchi Lab
 
 # Configuration
+extra_css:
+  - css/extra.css
 theme:
   name: material
   # custom_dir: material/overrides

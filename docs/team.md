@@ -92,13 +92,16 @@ Currently developing a pipeline that will be able to accept image and video file
 
 ### Hugo Almeida
 
-![Hugo Almeida](assets/images/team/Hugo-Almeida.png)
+![Hugo Almeida](assets/images/team/Hugo-Almeida.jpg)
 
 Rotational Student - Psychology  
 [Email](mailto:example@university.edu)
 
 Research focus: Decision-making task development - Human IBL
 
+#### About Hugo Almeida
+
+Development of a human-adapted version of the International Brain Laboratory’s standardized rodent decision-making task, which examines how mice integrate sensory information (visual contrast) with learned probabilistic priors (block-wise shifts in stimulus location probability). The paradigm examines fundamental cognitive aspects including perceptual discrimination, dynamic belief updating, and history-dependent biases to reveal how uncertainty and prior experience shape choices.
 <!-- ## Alumni
 
 ### Past Members -->
