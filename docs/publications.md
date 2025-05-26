@@ -10,11 +10,11 @@
 ## 2025
 
 - Seedat A., Lepauvre A., Jeschke J., Gorska-Klimowska U., Armendariz M., Bendtz K., Henin S., Hirschhorn R., Brown T., Jensen E., Kozma C., Mazumder D., Montenegro S., Yu L., **Bonacchi N.**, Das D., Kahraman K., Sripad P., Taheriyan F., Devinsky O., Dugan P., Doyle W., Flinker A., Friedman D., Lake W., Pitts M., Mudrik L., Boly M., Devore S., Kreiman G., Melloni L. (2025).  
-Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception. ***Nature Scientific Data***.  
+Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception. ***Nature Scientific Data***, *12*, 854
 [10.1038/s41597-025-04833-z](https://doi.org/10.1038/s41597-025-04833-z)
 
 - Cogitate Consortium, Ferrante O., Gorska-Klimowska U., Henin S., Hirschhorn R., Khalaf A., Lepauvre A., Liu L., Richter D., Vidal Y., **Bonacchi N.**, Brown T., Sripad P., Armendariz M., Bendtz K., Ghafari T., Hetenyi D., Jeschke J., Kozma C., Mazumder D., Montenegro S., Seedat A., Sharafeldin A., Yang S., Baillet S., Chalmers D., Cichy R., Fallon F., Panagiotaropoulos T., Blumenfeld H., de Lange F., Devore S., Jensen O., Kreiman G., Luo H., Boly M., Dehaene S., Koch C., Tononi G., Pitts M., Mudrik L., Melloni L. (2025).  
-An adversarial collaboration to critically evaluate theories of consciousness ***Nature***  
+An adversarial collaboration to critically evaluate theories of consciousness ***Nature***.  
 [10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1)
 
 - International Brain Laboratory, Kush Banga, Julius Benson, Jai Bhagat, Dan Biderman, Daniel Birman, **Niccolò Bonacchi**, Sebastian A Bruijns, Kelly Buchanan, Robert AA Campbell, Matteo Carandini, Gaelle A Chapuis, Anne K Churchland, M Felicia Davatolhagh, Hyun Dong Lee, Mayo Faulkner, Berk Gerçek, Fei Hu, Julia Huntenburg, Cole Lincoln Hurwitz, Anup Khanal, Christopher Krasniak, Petrina Lau, Christopher Langfield, Nancy Mackenzie, Guido T Meijer, Nathaniel J Miska, Zeinab Mohammadi, Jean-Paul Noel, Liam Paninski, Alejandro Pan-Vazquez, Cyrille Rossant, Noam Roth, Michael Schartner, Karolina Z Socha, Nicholas A Steinmetz, Karel Svoboda, Marsa Taheri, Anne E Urai, Shuqi Wang, Miles Wells, Steven J West, Matthew R Whiteway, Olivier Winter, Ilana B Witten, Yizi Zhang (2025) Reproducibility of in vivo electrophysiological measurements in mice ***eLife*** 13:RP100840  
@@ -26,31 +26,30 @@ An adversarial collaboration to critically evaluate theories of consciousness **
 Reproducibility of in vivo electrophysiological measurements in mice ***eLife*** 13:RP100840  
 [10.7554/eLife.100840.1](https://doi.org/10.7554/eLife.100840.1)
 
-**Datasets**:  
+!!! quote "**Datasets**"
+    - Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
+    Cogitate fMRI BIDS data: Max Planck Institute for Empirical Aesthetics  
+    [10.17617/1.8ax5-t263](https://doi.org/10.17617/1.8ax5-t263)
 
-- Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
-Cogitate fMRI BIDS data: Max Planck Institute for Empirical Aesthetics  
-[10.17617/1.8ax5-t263](https://doi.org/10.17617/1.8ax5-t263)
+    - Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
+    Cogitate fMRI RAW data: Max Planck Institute for Empirical Aesthetics.  
+    [10.17617/1.dhjj-er02](https://doi.org/10.17617/1.dhjj-er02)
 
-- Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
-Cogitate fMRI RAW data: Max Planck Institute for Empirical Aesthetics.  
-[10.17617/1.dhjj-er02](https://doi.org/10.17617/1.dhjj-er02)
+    - Marcelo Armendariz; Katarina Bendtz; Melanie Boly; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Sasha Devore; Urszula Górska-Klimowska; Simon Henin; Rony Hirschhorn et al. (2024).  
+    Cogitate iEEG BIDS data: Max Planck Institute for Empirical Aesthetics.  
+    [10.17617/1.6qpg-gz82](https://doi.org/10.17617/1.6qpg-gz82)
 
-- Marcelo Armendariz; Katarina Bendtz; Melanie Boly; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Sasha Devore; Urszula Górska-Klimowska; Simon Henin; Rony Hirschhorn et al. (2024).  
-Cogitate iEEG BIDS data: Max Planck Institute for Empirical Aesthetics.  
-[10.17617/1.6qpg-gz82](https://doi.org/10.17617/1.6qpg-gz82)
+    - Marcelo Armendariz; Katarina Bendtz; Melanie Boly; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Sasha Devore; Urszula Górska-Klimowska; Simon Henin; Rony Hirschhorn et al. (2024).  
+    Cogitate iEEG RAW data: Max Planck Institute for Empirical Aesthetics.  
+    [10.17617/1.cqyn-9a87](https://doi.org/10.17617/1.cqyn-9a87)
 
-- Marcelo Armendariz; Katarina Bendtz; Melanie Boly; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Sasha Devore; Urszula Górska-Klimowska; Simon Henin; Rony Hirschhorn et al. (2024).  
-Cogitate iEEG RAW data: Max Planck Institute for Empirical Aesthetics.  
-[10.17617/1.cqyn-9a87](https://doi.org/10.17617/1.cqyn-9a87)
+    - **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Oscar Ferrante; Rony Hirschhorn; Ole Jensen; Kyle Sinan Taylan Kahraman; Ling Liu; Huan Luo; Lucia Melloni et al. (2024).  
+    Cogitate MEEG BIDS data: Max Planck Institute for Empirical Aesthetics.  
+    [10.17617/1.wqa3-wk71](https://doi.org/10.17617/1.wqa3-wk71)
 
-- **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Oscar Ferrante; Rony Hirschhorn; Ole Jensen; Kyle Sinan Taylan Kahraman; Ling Liu; Huan Luo; Lucia Melloni et al. (2024).  
-Cogitate MEEG BIDS data: Max Planck Institute for Empirical Aesthetics.  
-[10.17617/1.wqa3-wk71](https://doi.org/10.17617/1.wqa3-wk71)
-
-- **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Oscar Ferrante; Rony Hirschhorn; Ole Jensen; Kyle Sinan Taylan Kahraman; Ling Liu; Huan Luo; Lucia Melloni et al. (2024).  
-Cogitate MEEG RAW data: Max Planck Institute for Empirical Aesthetics.  
-[10.17617/1.nzwp-7j89](https://doi.org/10.17617/1.nzwp-7j89)
+    - **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Oscar Ferrante; Rony Hirschhorn; Ole Jensen; Kyle Sinan Taylan Kahraman; Ling Liu; Huan Luo; Lucia Melloni et al. (2024).  
+    Cogitate MEEG RAW data: Max Planck Institute for Empirical Aesthetics.  
+    [10.17617/1.nzwp-7j89](https://doi.org/10.17617/1.nzwp-7j89)
 
 ## 2023
 
@@ -75,13 +74,13 @@ Spatial maps in piriform cortex during olfactory navigation. ***Nature***, *601*
 [10.1038/s41586-021-04242-3](https://doi.org/10.1038/s41586-021-04242-3)
 
 - Aguillon-Rodriguez, and V., Angelaki, D., Bayer, H., **Bonacchi, N.**, Carandini, M., Cazettes, F., Chapuis, G., Churchland, A. K., Dan, Y., Dewitt, E., Faulkner, M., Forrest, H., Haetzel, L., Häusser, M., Hofer, S. B., Hu, F., Khanal, A., Krasniak, C., Laranjeira, I., … Zador, A. M. (2021).  
-Standardized and reproducible measurement of decision-making in mice. **ELife**, *10*.  
+Standardized and reproducible measurement of decision-making in mice. **ELife**, *10*:e63711.  
 [10.7554/elife.63711](https://doi.org/10.7554/elife.63711)
 
 ## 2015
 
 - Lopes, G., **Bonacchi, N.**, Frazão, J., Neto, J. P., Atallah, B. V., Soares, S., Moreira, L., Matias, S., Itskov, P. M., Correia, P. A., Medina, R. E., Calcaterra, L., Dreosti, E., Paton, J. J., & Kampff, A. R. (2015).  
-Bonsai: An event-based framework for processing and controlling data streams. ***Frontiers in Neuroinformatics***, *9*(APR).  
+Bonsai: An event-based framework for processing and controlling data streams. ***Frontiers in Neuroinformatics***, *9*:7.  
 [10.3389/fninf.2015.00007](https://doi.org/10.3389/fninf.2015.00007)
 
 ## Preprints
