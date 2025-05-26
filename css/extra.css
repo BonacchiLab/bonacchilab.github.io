@@ -1,0 +1,50 @@
+/* Target all admonitions */
+.md-typeset .admonition {
+    font-size: 1em !important;
+}
+
+/* Target specific admonition types */
+.md-typeset .admonition.info {
+    font-size: 0.8em !important;
+}
+
+.md-typeset .admonition.archive {
+    font-size: 0.8em !important;
+}
+
+/* .md-typeset .admonition.abstract {
+    font-size: 1em !important;
+} */
+
+
+/* .md-typeset .admonition.success {
+    font-size: 1em !important;
+} */
+
+
+/* .md-typeset .admonition.abstract {
+    font-size: 1.1em !important;
+} */
+
+
+/* <!-- ADMONITION TYPES
+!!! note "This is a note"
+!!! tip "This is a tip"
+!!! success "This is a success"
+!!! failure "This is a failure"
+!!! question "This is a question"
+!!! abstract "This is an abstract"
+!!! quote "This is a quote"
+!!! info "This is an info"
+!!! bug "This is a bug"
+!!! warning "This is a warning"
+!!! danger "This is a danger"
+!!! example "This is an example"
+<details>
+    <summary>Details</summary>
+    Something small enough to escape casual notice.
+ONLY ONELINERS \n
+    [link](https://www.google.com)
+    Something else
+</details>
+--> */
