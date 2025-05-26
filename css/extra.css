@@ -12,6 +12,10 @@
     font-size: 0.8em !important;
 }
 
+.md-typeset .admonition.quote {
+    font-size: 0.9em !important;
+}
+
 /* .md-typeset .admonition.abstract {
     font-size: 1em !important;
 } */
