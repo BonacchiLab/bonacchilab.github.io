@@ -10,15 +10,15 @@ A Brain-Wide Map of Neural Activity during Complex Behaviour ***Nature* [IN_REVI
 
 ## 2025
 
+- Seedat A., Lepauvre A., Jeschke J., Gorska-Klimowska U., Armendariz M., Bendtz K., Henin S., Hirschhorn R., Brown T., Jensen E., Kozma C., Mazumder D., Montenegro S., Yu L., **Bonacchi N.**, Das D., Kahraman K., Sripad P., Taheriyan F., Devinsky O., Dugan P., Doyle W., Flinker A., Friedman D., Lake W., Pitts M., Mudrik L., Boly M., Devore S., Kreiman G., Melloni L. (2025).  
+Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception. ***Nature Scientific Data***. [10.1038/s41597-025-04833-z](https://doi.org/10.1038/s41597-025-04833-z)
+
 - Cogitate Consortium, Ferrante O., Gorska-Klimowska U., Henin S., Hirschhorn R., Khalaf A., Lepauvre A., Liu L., Richter D., Vidal Y., **Bonacchi N.**, Brown T., Sripad P., Armendariz M., Bendtz K., Ghafari T., Hetenyi D., Jeschke J., Kozma C., Mazumder D., Montenegro S., Seedat A., Sharafeldin A., Yang S., Baillet S., Chalmers D., Cichy R., Fallon F., Panagiotaropoulos T., Blumenfeld H., de Lange F., Devore S., Jensen O., Kreiman G., Luo H., Boly M., Dehaene S., Koch C., Tononi G., Pitts M., Mudrik L., Melloni L. (2025).  
 An adversarial collaboration to critically evaluate theories of consciousness **Nature**  
 [10.1038/s41586-025-08888-1](https://doi.org/10.1038/s41586-025-08888-1)
 
 - International Brain Laboratory, Kush Banga, Julius Benson, Jai Bhagat, Dan Biderman, Daniel Birman, **Niccolò Bonacchi**, Sebastian A Bruijns, Kelly Buchanan, Robert AA Campbell, Matteo Carandini, Gaelle A Chapuis, Anne K Churchland, M Felicia Davatolhagh, Hyun Dong Lee, Mayo Faulkner, Berk Gerçek, Fei Hu, Julia Huntenburg, Cole Lincoln Hurwitz, Anup Khanal, Christopher Krasniak, Petrina Lau, Christopher Langfield, Nancy Mackenzie, Guido T Meijer, Nathaniel J Miska, Zeinab Mohammadi, Jean-Paul Noel, Liam Paninski, Alejandro Pan-Vazquez, Cyrille Rossant, Noam Roth, Michael Schartner, Karolina Z Socha, Nicholas A Steinmetz, Karel Svoboda, Marsa Taheri, Anne E Urai, Shuqi Wang, Miles Wells, Steven J West, Matthew R Whiteway, Olivier Winter, Ilana B Witten, Yizi Zhang (2025) Reproducibility of in vivo electrophysiological measurements in mice **eLife** 13:RP100840  
 [10.7554/eLife.100840.3](https://doi.org/10.7554/eLife.100840.3)
-
-- Seedat A., Lepauvre A., Jeschke J., Gorska-Klimowska U., Armendariz M., Bendtz K., Henin S., Hirschhorn R., Brown T., Jensen E., Kozma C., Mazumder D., Montenegro S., Yu L., **Bonacchi N.**, Das D., Kahraman K., Sripad P., Taheriyan F., Devinsky O., Dugan P., Doyle W., Flinker A., Friedman D., Lake W., Pitts M., Mudrik L., Boly M., Devore S., Kreiman G., Melloni L. (2025).  
-Open multi-center intracranial electroencephalography dataset with task probing conscious visual perception. ***Nature Scientific Data*. [ACCEPTED]()**
 
 ## 2024
 
