@@ -39,6 +39,14 @@
 
 6. Open your browser and visit `http://127.0.0.1:8000`
 
+## Running Tests
+
+After installing dependencies, run the test suite with:
+
+```bash
+pytest
+```
+
 ## Adding Content
 
 1. Create new `.md` files in the `docs` directory
