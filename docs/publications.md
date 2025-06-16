@@ -1,11 +1,11 @@
 # Publications
 
-!!! info "Under Review"
-    - Findling C., Hubert F., International Brain Laboratory, Acerbi L., Benson B., Benson J., Birman D., **Bonacchi N.**, Bruijns S., Carandini M., Catarino J., Chapuis G., Churchland A., Dan Y., Davatolhagh F., DeWitt E., Engel T., Fabbri M., Faulkner M., Fiete I., Freitas-Silva L., Gerçek B., Harris K., Häusser M., Hofer S., Hu F., Huntenburg J., Khanal A., Krasniak C., Langdon C., Latham P., Lau P., Mainen Z., Meijer G., Miska N., Mrsic-Flogel T., Noel J., Nylund K., Pan-Vazquez A., Paninski L., Pillow J., Rossant C., Roth N., Schaeffer R., Schartner M., Shi Y., Socha K., Steinmetz N., Svoboda K., Tessereau C., Urai A., Wells M., West S., Whiteway M., Winter O., Witten I., Zador A., Zhang Y., Dayan P., Pouget A.  
-    Brain-wide representations of prior information in mouse decision-making ***Nature* [IN_REVIEW]**
+!!! success "Accepted articles (in press):"
+    - Findling C., Hubert F., International Brain Laboratory, Acerbi L., Benson B., Benson J., Birman D., **Bonacchi N.**, Bruijns S., Carandini M., Catarino J., Chapuis G., Churchland A., Dan Y., Davatolhagh F., DeWitt E., Engel T., Fabbri M., Faulkner M., Fiete I., Freitas-Silva L., Gerçek B., Harris K., Häusser M., Hofer S., Hu F., Huntenburg J., Khanal A., Krasniak C., Langdon C., Latham P., Lau P., Mainen Z., Meijer G., Miska N., Mrsic-Flogel T., Noel J., Nylund K., Pan-Vazquez A., Paninski L., Pillow J., Rossant C., Roth N., Schaeffer R., Schartner M., Shi Y., Socha K., Steinmetz N., Svoboda K., Tessereau C., Urai A., Wells M., West S., Whiteway M., Winter O., Witten I., Zador A., Zhang Y., Dayan P., Pouget A. (in press)  
+    Brain-wide representations of prior information in mouse decision-making ***Nature***
 
-    - International Brain Laboratory, Benson B., Benson J., Birman D., **Bonacchi N.**, Bougrova K., Bruijns S., Carandini M., Catarino J., Chapuis G., Churchland A., Dan Y., Davatolhagh F., Dayan P., DeWitt E., Engel T., Fabbri M., Faulkner M., Fiete I., Findling C., Freitas-Silva L., Gerçek B., Harris K., Häusser M., Hofer S., Hu F., Hubert F., Huntenburg J., Khanal A., Krasniak C., Langdon C., Lau P., Mainen Z., Meijer G., Miska N., Mrsic-Flogel T., Noel J., Nylund K., Pan-Vazquez A., Paninski L., Pouget A., Rossant C., Roth N., Schaeffer R., Schartner M., Shi Y., Socha K., Steinmetz N., Svoboda K., Urai A., Wells M., West S., Whiteway M., Winter O., Witten I.  
-    A Brain-Wide Map of Neural Activity during Complex Behaviour ***Nature* [IN_REVIEW]**
+    - International Brain Laboratory, Benson B., Benson J., Birman D., **Bonacchi N.**, Bougrova K., Bruijns S., Carandini M., Catarino J., Chapuis G., Churchland A., Dan Y., Davatolhagh F., Dayan P., DeWitt E., Engel T., Fabbri M., Faulkner M., Fiete I., Findling C., Freitas-Silva L., Gerçek B., Harris K., Häusser M., Hofer S., Hu F., Hubert F., Huntenburg J., Khanal A., Krasniak C., Langdon C., Lau P., Mainen Z., Meijer G., Miska N., Mrsic-Flogel T., Noel J., Nylund K., Pan-Vazquez A., Paninski L., Pouget A., Rossant C., Roth N., Schaeffer R., Schartner M., Shi Y., Socha K., Steinmetz N., Svoboda K., Urai A., Wells M., West S., Whiteway M., Winter O., Witten I. (in press)  
+    A Brain-Wide Map of Neural Activity during Complex Behaviour ***Nature***
 
 ## 2025
 

@@ -10,15 +10,15 @@ This directory contains images used in the lab website:
 ## Image Guidelines
 
 1. Team Photos:
-   - Dimensions: 400x400px
+   - Dimensions: 200x200px | shortest edge at least 200px
    - Format: JPG or PNG
-   - Professional headshot style
-   - Name format: firstname_lastname.jpg
+   - "Professional" headshot style
+   - Name format: Firstname-Lastname.jpg
 
 2. Logo:
    - High resolution PNG with transparency
    - Both light and dark versions
-   - Dimensions: at least 1000px width
+   - Dimensions: 200x200px
 
 3. Research Images:
    - High quality, publication-ready

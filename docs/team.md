@@ -23,8 +23,8 @@ Niccolò Bonacchi is an Assistant Professor at ISPA - Instituto Universitário, 
 
 - Ph.D. in Neuroscience (Nova University of Lisbon, CCU), focused on neural representation of spatial objectives, olfactory cues, and predictive coding
 - Development and contribution to [Bonsai-RX](https://bonsai-rx.org/), an open-source visual programming language extensively used for behavioral and neuroscience research
-- Former Data Architect at the International Brain Laboratory (IBL), leading the development of experimental data acquisition and management systems
-- Data Architect of the COGITATE consortium, developing standards for experimental metadata ontology and promoting FAIR data-sharing practices
+- Former Data Architect at the [International Brain Laboratory (IBL)](https://www.internationalbrainlab.com/), leading the development of experimental data acquisition and management systems
+- Data Architect of the [COGITATE consortium](https://www.arc-cogitate.com/), developing standards for experimental metadata ontology and promoting FAIR data-sharing practices
 
 Niccolò's research interests lie at the intersection of cognitive and behavioral neuroscience and computational methodologies, emphasizing accurate behavioral quantification, data analysis precision, and open science.
 
@@ -32,10 +32,11 @@ Niccolò's research interests lie at the intersection of cognitive and behaviora
 
 ### Miriam Oliveira Leal (DVM)
 
-![Miriam Oliveira Leal ](assets/images/team/Miriam-Oliveira-Leal.png)
+![Miriam Oliveira Leal ](assets/images/team/Miriam-Leal.jpg)
 
 PhD Student - Behavioral Biology  
-[Email](mailto:example@university.edu)
+[LinkedIn](https://www.linkedin.com/in/miriam-leal-72157666/) |
+[ORCID](https://orcid.org/0009-0008-7856-5606)
 
 Research focus: Multidimensional pain assessment in seals and sea lions
 
@@ -46,7 +47,7 @@ Research focus: Multidimensional pain assessment in seals and sea lions
 ![Beatriz Simões](assets/images/team/Beatriz-Simoes.JPG)
 
 Master's Student - Cognitive and Behavioral Neuroscience  
-[Email](mailto:example@university.edu)
+[LinkedIn](https://www.linkedin.com/in/beatrizcoelhosimoes/)
 
 Research focus: Political decision-making
 
@@ -56,10 +57,10 @@ Beatriz is a Master student of the Behavioral and Cognitive Neuroscience Masters
 
 ### Isabel Gaspar
 
-![Isabel Gaspar](assets/images/team/Isabel-Gaspar.png)
+![Isabel Gaspar](assets/images/team/Isabel-Gaspar.jpg)
 
 Master's Student - Cognitive and Behavioral Neuroscience  
-[Email](mailto:example@university.edu)
+[LinkedIn](https://www.linkedin.com/in/isabel-gaspar-38aa91187/)
 
 Research focus: Endocrine markers of sea lion well-being
 
@@ -70,7 +71,7 @@ Research focus: Endocrine markers of sea lion well-being
 ![Carlota Carreiras](assets/images/team/Carlota-Carreiras.png)
 
 Undergraduate Student - Biology  
-[Email](mailto:example@university.edu)
+[Email]()
 
 Research focus: Cogitate dataset fMRI analysis, neural correlates of attention  
 _Explorar os mecanismos neuronais da atenção através de dados de fMRI_  
@@ -82,7 +83,7 @@ colaborativo sobre consciência, desenvolvido por diversos centros de investiga�
 ![Maria Moreira](assets/images/team/Maria-Moreira.jpeg)
 
 Rotational  Student - Psychology  
-[Email](mailto:example@university.edu)
+[Email]()
 
 Research focus: Facial expression analysis - PyFEAT wrapper and default analysis development
 
@@ -95,7 +96,7 @@ Currently developing a pipeline that will be able to accept image and video file
 ![Hugo Almeida](assets/images/team/Hugo-Almeida.jpg)
 
 Rotational Student - Psychology  
-[Email](mailto:example@university.edu)
+[Email]()
 
 Research focus: Decision-making task development - Human IBL
 
