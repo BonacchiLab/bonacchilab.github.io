@@ -13,16 +13,18 @@ We welcome applications from highly motivated MSc students with a strong interes
 **Requirements:**
 
 - Basic knowledge of experimental design and data analysis.
-- Proficiency in programming (Python, R, or MATLAB preferred).
+- Basic programming skills (Preferred: Python, R, or MATLAB).
 - Strong communication and organizational skills.
 - Enthusiasm for interdisciplinary research.
 
 **How to Apply:**
-Send the following materials to [nbonacchi@ispa.pt](mailto:nbonacchi@ispa.pt) with the subject line **"MSc Application - [Your Name]"**:
+Send an email containing the following information to [nbonacchi@ispa.pt](mailto:nbonacchi@ispa.pt):
 
-1. CV
-2. A brief statement of interest (max 1 page) explaining your motivation and relevant experience.
-3. Contact information for 1-2 references.
+1. Subject line **"MSc Application - [Your Name]"**:
+2. MSc course and institution.
+3. Contact information for MSc course coordinator (if external student).
+4. Profile summary and a brief representation of interests (max 1 page).
+5. CV and Research experience (optional, max 2 pages).
 
 ---
 
@@ -43,7 +45,7 @@ Send the following materials to [nbonacchi@ispa.pt](mailto:nbonacchi@ispa.pt) wi
 1. CV
 2. Research statement (max 2 pages) outlining your research interests and goals.
 3. Academic transcripts (for both undergraduate and Master’s degrees).
-4. Contact information for 2-3 references.
+4. Contact information for 2 references.
 
 ---
 
@@ -64,7 +66,7 @@ Send the following materials to [nbonacchi@ispa.pt](mailto:nbonacchi@ispa.pt) wi
 1. CV
 2. Cover letter (max 2 pages) describing your research experience, skills, and future goals.
 3. Research proposal (optional, max 2 pages) outlining potential projects you would like to pursue.
-4. Contact information for 3 references.
+4. Contact information for at least 2 references.
 
 ---
 

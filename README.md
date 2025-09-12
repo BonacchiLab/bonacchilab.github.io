@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-    - Python 3.12
-    - uv package manager
-    - Git
+- Python 3.12
+- uv package manager
+- Git
 
 ## Local Development
 

@@ -8,13 +8,18 @@
 ### 2025
 
 !!! success "2025 News"
-    - [June 2025] IBL Brain Wide Map and Prior papers accepted in **Nature**!!
-    - [May 2025] COGITATE paper published in **Nature Scientific Data**!! [https://www.nature.com/articles/s41597-025-04833-z](https://doi.org/10.1038/s41597-025-04833-z)
-    - [April 2025] COGITATE paper published in **Nature**!! [https://www.nature.com/articles/s41586-025-08888-1](https://www.nature.com/articles/s41586-025-08888-1)
+    - [September 2025] IBL Brain Wide Map (BWM) and Prior papers published in **Nature**!!  
+        BWM: [https://www.nature.com/articles/s41586-025-09235-0](https://www.nature.com/articles/s41586-025-09235-0)  
+        Prior: [https://www.nature.com/articles/s41586-025-09226-1](https://www.nature.com/articles/s41586-025-09226-1)
+    - [June 2025] IBL Brain Wide Map and Prior papers accepted in Nature!!
+    - [May 2025] COGITATE iEEG data paper published in **Nature Scientific Data**!!  
+        [https://www.nature.com/articles/s41597-025-04833-z](https://doi.org/10.1038/s41597-025-04833-z)
+    - [April 2025] COGITATE paper published in **Nature**!!  
+        [https://www.nature.com/articles/s41586-025-08888-1](https://www.nature.com/articles/s41586-025-08888-1)
     - [March 2025] S4SN abstract submission opens! [https://www.s4sn2025.org/abstracts](https://www.s4sn2025.org/abstracts)
     - [March 2025] S4SN registration opens! [https://www.s4sn2025.org/registration](https://www.s4sn2025.org/registration)
     - [March 2025] S4SN symposium proposals opens! [https://www.s4sn2025.org/symposia](https://www.s4sn2025.org/symposia)
-    - [January 2025] COGITATE iEEG data paper accepted in **Nature Scientific Data**!!
+    - [January 2025] COGITATE iEEG data paper accepted in Nature Scientific Data!!
     - [January 2025] S4SN2025 website running! [https://www.s4sn2025.org](https://www.s4sn2025.org)
 
 ### 2024
