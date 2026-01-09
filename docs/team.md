@@ -63,6 +63,17 @@ Master's Student - Cognitive and Behavioral Neuroscience
 
 Research focus: Endocrine markers of pinniped (seals and sea lions) well-being
 
+### Tomás Maçarico
+
+![Tomás Maçarico](assets/images/team/Tomas-Macarico.jpg)
+
+Master's Student - Cognitive and Behavioral Neuroscience  
+<!-- [LinkedIn](https://www.linkedin.com/in/isabel-gaspar-38aa91187/) -->
+
+Research focus: Neural dynamics of visual categories: Social, functional, and symbolic stimuli of the COGITATE MEEG dataset.
+
+Tomás is a Master’s student in Cognitive and Behavioral Neuroscience. His thesis project investigates whether different categories of visual stimuli evoke distinct conscious representations in the human brain. Building on the Cogitate project (Adversarial testing of global neuronal workspace and integrated information theories of consciousness, Nature, 2024), he focuses on comparing faces and letters, analysing MEG data to explore differences in spatial and temporal neural dynamics, as well as connectivity profiles. This research aims to clarify whether conscious perception is category-independent or whether biologically meaningful stimuli, such as faces, are represented with greater stability and integration across brain networks.
+
 ## _**Undergraduate and Rotational Students**_
 
 ## **_Alumni_**
