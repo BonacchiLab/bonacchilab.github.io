@@ -76,6 +76,16 @@ Tomás is a Master’s student in Cognitive and Behavioral Neuroscience. His the
 
 ## _**Undergraduate and Rotational Students**_
 
+### Tomás Rocha
+
+![Tomás Rocha](assets/images/team/Tomas-Rocha.png)
+
+Undergraduate Student - Psychology
+
+Research focus: Decision-making task development - Human IBL
+
+Tomás's interests encompass memory (pathological and normative memory degradation), research into understanding the autism spectrum and all its diverse particularities, evolutionary psychology, and the influence of genes on the human nervous system and, consequently, on human behavior.
+
 ## **_Alumni_**
 
 ### Carlota Carreiras
