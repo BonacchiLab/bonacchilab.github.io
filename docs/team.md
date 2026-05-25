@@ -74,6 +74,16 @@ Research focus: Neural dynamics of visual categories: Social, functional, and sy
 
 Tomás is a Master’s student in Cognitive and Behavioral Neuroscience. His thesis project investigates whether different categories of visual stimuli evoke distinct conscious representations in the human brain. Building on the Cogitate project (Adversarial testing of global neuronal workspace and integrated information theories of consciousness, Nature, 2024), he focuses on comparing faces and letters, analysing MEG data to explore differences in spatial and temporal neural dynamics, as well as connectivity profiles. This research aims to clarify whether conscious perception is category-independent or whether biologically meaningful stimuli, such as faces, are represented with greater stability and integration across brain networks.
 
+### Maria Moreira
+
+![Maria Moreira](assets/images/team/Maria-Moreira.jpeg)
+
+Master's Student - Cognitive and Behavioral Neuroscience
+
+Research focus: H-IBL: Comparing human and rodent behavioral strategies
+
+Maria Moreira is a retrurning rotational student now back for her Masters. Maria is currently a Master’s student in Cognitive and Behavioral Neuroscience at ISPA, holding a Bachelor’s degree in Psychology. Her academic interests focus on cognitive functions, the neural mechanisms underlying behavior and computational neuroscience. Maria is working on the implementation and validation of a human adaptation of the International Brain Laboratory (IBL) decision-making task using PsychoPy, including behavioral testing, data collection, quality control, and computational analyses. Through this work, she is developing advanced skills in experimental design, behavioral neuroscience, and open-science research practices.
+
 ## _**Undergraduate and Rotational Students**_
 
 ### Tomás Rocha
@@ -90,7 +100,7 @@ Tomás's interests encompass memory (pathological and normative memory degradati
 
 ### Carlota Carreiras
 
-![Carlota Carreiras](assets/images/team/Carlota-Carreiras.png)
+<!-- ![Carlota Carreiras](assets/images/team/Carlota-Carreiras.png) -->
 
 Undergraduate Student - Biology  
 Research focus: Cogitate dataset fMRI analysis, neural correlates of attention  
@@ -98,7 +108,7 @@ Joined the Masters in Cognitive and Behavioral Neuroscience at Ispa - Instituto 
 
 ### Maria Moreira
 
-![Maria Moreira](assets/images/team/Maria-Moreira.jpeg)
+<!-- ![Maria Moreira](assets/images/team/Maria-Moreira.jpeg) -->
 
 Rotational  Student - Psychology  
 Research focus: Facial expression analysis - PyFEAT wrapper and default analysis development
@@ -106,7 +116,7 @@ Joined the Masters in Cognitive and Behavioral Neuroscience at Ispa - Instituto 
 
 ### Hugo Almeida
 
-![Hugo Almeida](assets/images/team/Hugo-Almeida.jpg)
+<!-- ![Hugo Almeida](assets/images/team/Hugo-Almeida.jpg) -->
 
 Rotational Student - Psychology  
 Research focus: Decision-making task development - Human IBL
