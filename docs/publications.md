@@ -1,6 +1,22 @@
 # Publications
 
+## Under review
+
+- Cogitate Consortium, Cui X., Ekman M., Ferrante O., Gorska-Klimowska U., Hirschhorn R., Khalaf A., Liu L., Oyarzo P., Richter D., Roth Z., Vidal Y., **Bonacchi N.**, Brown T., Das D., Taheriyan F., Sripad P., Bendtz K., Ghafari T., Hetenyi D., Kozma C., Kronemer S., Lepauvre A., Sharafeldin A., Yang S., Al Roumi F., Baillet S., Chalmers D., Cichy R., Fallon F., Blumenfeld H., Jensen O., de Lange F., Luo H., Vidaurre D., Boly M., Dehaene S., Koch C., Tononi G., Melloni L., Pitts M. (2026).  
+Testing predictions of the Global Neuronal Workspace and Integrated Information Theories with a Novel Attention Paradigm. *Submitted; under review.*  
+
+
 <!-- !!! success "Accepted articles (in press):" -->
+
+## 2026
+
+- Liu L., Ferrante O., Ghafari T., Hetenyi D., Yang S., Hirschhorn R., Gorska-Klimowska U., Sripad P., Taheriyan F., Brown T., Das D., Kahraman K., **Bonacchi N.**, Pitts M., Mudrik L., Jensen O., Luo H., Melloni L. (2026).  
+An open multi-center MEG-EEG dataset for studying conscious visual perception. ***Scientific Data***, *13*, 799.  
+[10.1038/s41597-026-07350-9](https://doi.org/10.1038/s41597-026-07350-9)
+
+- Khalaf A., Richter D., Vidal Y., Gorska-Klimowska U., Hirschhorn R., Das D., Kahraman K. S. T., Sripad P., Taheriyan F., Mudrik L., Pitts M., Blumenfeld H., de Lange F. P., **Bonacchi N.**, Brown T., Melloni L. (2026).  
+An open-access multi-site fMRI dataset for investigating conscious visual perception. ***Scientific Data***, *13*, 779.  
+[10.1038/s41597-026-07377-y](https://doi.org/10.1038/s41597-026-07377-y)
 
 ## 2025
 
@@ -87,6 +103,11 @@ Bonsai: An event-based framework for processing and controlling data streams. **
 [10.3389/fninf.2015.00007](https://doi.org/10.3389/fninf.2015.00007)
 
 ## Preprints
+
+- Andre A., Mahato S. P., Arora V., Balaji K., Lachi D., Krishna N. H., Xiao J., Zhang Y., Mao X., Ma W., Yu H., International Brain Laboratory, Birman D., **Bonacchi N.**, Chapuis G. A., Catarino J. A., Davatolhagh F., Faulkner M., Freitas-Silva L., Hu F., Huntenburg J. M., Khanal A., Laranjeira I., Lau P., Meijer G. T., Miska N. J., Noel J.-P., Pan-Vazquez A., Raiser G., Rossant C., Socha K. Z., Urai A. E., Wells M. J., West S. J., Winter O., Richards B., Lajoie G., Hurwitz C., Azabou M., Whiteway M. R., Paninski L., Dyer E. L. (2026).  
+BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings. ***arXiv*** (preprint).  
+[10.48550/arXiv.2609.22064](https://doi.org/10.48550/arXiv.2609.22064)  
+[Paper](https://arxiv.org/abs/2609.22064) · [Leaderboard](https://bwb.iblcore.org/) · [Project homepage](https://brainbench-org.github.io/ibl-bwb-project/)
 
 - Benson, B., Benson, J., Birman, D., … Winter, O., **Bonacchi, N.**, Witten, I. B. (2023).  
 A Brain-Wide Map of Neural Activity during Complex Behaviour. ***bioRxiv***.  
