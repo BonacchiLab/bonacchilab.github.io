@@ -4,7 +4,7 @@
 
 ### Dr. Niccolò Bonacchi
 
-![Niccolò Bonacchi](assets\images\team\Niccolo-Bonacchi.png)
+![Niccolò Bonacchi](assets/images/team/Niccolo-Bonacchi.png)
 
 Principal Investigator  
 Assistant Professor of Biology and Neuroscience  
