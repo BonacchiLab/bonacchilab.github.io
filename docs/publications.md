@@ -45,7 +45,8 @@ An adversarial collaboration to critically evaluate theories of consciousness **
 Reproducibility of in vivo electrophysiological measurements in mice ***eLife*** 13:RP100840  
 [10.7554/eLife.100840.1](https://doi.org/10.7554/eLife.100840.1)
 
-!!! quote "**Datasets**"
+!!! quote "**Datasets**"  
+
     - Hal Blumenfeld; **Bonacchi, N.**; Tanya Brown; Diptyajit Das; Floris de Lange; Rony Hirschhorn; Kyle Sinan Taylan Kahraman; Aya Khalaf; Lucia Melloni; Liad Mudrik et al. (2024).  
     Cogitate fMRI BIDS data: Max Planck Institute for Empirical Aesthetics  
     [10.17617/1.8ax5-t263](https://doi.org/10.17617/1.8ax5-t263)
