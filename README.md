@@ -54,6 +54,8 @@ pytest
 3. Use Markdown syntax to write your content
 4. The site will automatically reload when you save changes
 
+The former News archive is preserved in `archive/news.md`, outside the published `docs/` directory. It is excluded from the site and search.
+
 ## Deploying to GitHub Pages
 
 1. Make sure your changes are committed and pushed to the main branch:
